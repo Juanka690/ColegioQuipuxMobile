@@ -22,7 +22,7 @@ Siga estos pasos para configurar y ejecutar la aplicación:
 2. **Clonar el repositorio**: Clone este repositorio en su máquina local utilizando Git:
 
    ```bash
-   git clone https://github.com/tu-usuario/ColegioQuipuxMobile.git
+   git clone https://github.com/Juanka690/ColegioQuipuxMobile.git
 3. **Instalar dependencias**: Navegue al directorio del proyecto y ejecute el siguiente comando para instalar todas las dependencias necesarias:
 
     ```bash

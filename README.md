@@ -1,16 +1,14 @@
-# quipux
+# ColegioQuipuxMobile
 
-A new Flutter project.
+Este es un proyecto de aplicación móvil desarrollado en Flutter para la gestión de Colegio Quipux.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+La aplicación ColegioQuipuxMobile es una herramienta diseñada para facilitar la administración y seguimiento de actividades en el Colegio Quipux. Proporciona acceso a diferentes funcionalidades, como gestionar materias, estudiantes y otras tareas relacionadas con la administración de la institución educativa.
 
-A few resources to get you started if this is your first Flutter project:
+## Características
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Visualización de información sobre el Colegio Quipux.
+- Gestión de materias.
+- Registro y seguimiento de estudiantes.
+- Acceso a panel de administración.
